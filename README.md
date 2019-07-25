@@ -1,7 +1,7 @@
 # RadarHUD
-A simple radar HUD implementation
+A simple radar HUD implementation.
 
-[reference](https://orfeasel.com/cpp-radar/)
+[Reference material](https://orfeasel.com/cpp-radar/) (Open from your mobile phone or other browser. because your firewall may prevent viewing some of images.)
 
 Some additional notes:
 
