@@ -1,9 +1,13 @@
 # RadarHUD
 A simple radar HUD implementation
 
-creating a BP class derived from C++ class.
+[reference](https://orfeasel.com/cpp-radar/)
 
-From Content Browser > Add New > Blueprint class, choose All Classes:
+Some additional notes:
+
+1. In order to creat a BP class derived from C++ class, do the following:
+
+Content Browser > Add New > Blueprint class, choose All Classes:
 
 Choose C++ class you created on the menu, then rename it to BP_HUD.
 
