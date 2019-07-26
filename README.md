@@ -1,3 +1,5 @@
+![RadarHUD_demo](https://github.com/SeokLeeUS/RadarHUD/raw/master/_image/radar_hud.gif)
+
 [![RadarHUD](https://img.youtube.com/vi/i5xZHwDOt7Y/hqdefault.jpg)](https://youtu.be/i5xZHwDOt7Y) 
 
 A simple radar HUD implementation. This is the [reference material](https://orfeasel.com/cpp-radar/).
