@@ -2,7 +2,7 @@
 
 A simple radar HUD implementation. This is the [reference material](https://orfeasel.com/cpp-radar/).
 
-(Open from your mobile phone or other browser. because your firewall may prevent viewing some of images.)
+(Open the web link from your mobile phone or other browser because your firewall may prevent viewing some of images.)
 
 Some additional notes: In order to creat a BP class derived from C++ class, please follow the below instruction.
 
